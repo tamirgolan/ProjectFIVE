@@ -10,7 +10,7 @@ while 10<=num1<=99:
         print("lucky number")
 
 
-    print("lucky numberGGGG")
+    print("lucky numberGGGGDD")
 
 
 
