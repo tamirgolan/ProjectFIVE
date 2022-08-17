@@ -6,7 +6,7 @@ for i in range(2,num):
         print("not prime number")
         break
 else:
-    print("prime number")
+    print("prime number prime")
 
 
 
