@@ -8,7 +8,7 @@ else:
 
 # chack in num divided by 3
 if num%3==0:
-    print("divided by 3")
+    print("divided by 66663")
 else:
     print("not divided by 3")
 
